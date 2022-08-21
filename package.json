@@ -16,5 +16,8 @@
     "mongodb": "^3.6.4",
     "passport": "^0.6.0",
     "passport-local": "^1.0.0"
+  },
+  "devDependencies": {
+    "@types/mongodb": "^4.0.7"
   }
 }
